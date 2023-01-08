@@ -7,6 +7,10 @@
 }
 .header {
   background-color: #fff;
+  font-size: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   height: 7rem;
   border-bottom: var(--color-grey-light-2);
 }
